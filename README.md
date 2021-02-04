@@ -15,4 +15,11 @@ Logotyp decentralizacja.pl
     #FF9C01, #830101
     
     
-## d    
+## logo
+
+
+## 1
+![1/cover.png](1/cover.png)
+
+## 2
+![2/cover.png](2/cover.png)

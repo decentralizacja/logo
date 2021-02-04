@@ -1,4 +1,5 @@
-# logo
+# [logo | Logotyp decentralizacja.pl](https://logo.decentralizacja.pl/)
+
 Logotyp decentralizacja.pl
 
 ## Font

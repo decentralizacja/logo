@@ -1,7 +1,7 @@
 # Logotyp decentralizacja.pl
 + [Landing page: www.decentralizacja.pl](https://www.decentralizacja.pl/)
 + [Dokumentacja](https://docs.decentralizacja.pl/)
-+ [Logotyp decentralizacja.pl](https://logo.decentralizacja.pl/)
++ [Logo.decentralizacja.pl](https://logo.decentralizacja.pl/)
 
 
 

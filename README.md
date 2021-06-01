@@ -1,7 +1,8 @@
-# Logotyp decentralizacja.pl
+# Logotyp [Logo.decentralizacja.pl](https://logo.decentralizacja.pl/)
+
 + [Landing page: www.decentralizacja.pl](https://www.decentralizacja.pl/)
 + [Dokumentacja](https://docs.decentralizacja.pl/)
-+ [Logo.decentralizacja.pl](https://logo.decentralizacja.pl/)
+ 
 
 
 
@@ -27,3 +28,8 @@
 
 ## 2
 ![2/cover.png](2/cover.png)
+
+---
++ [edit](https://github.com/decentralizacja/logo/edit/main/README.md)
+
+      https://github.com/decentralizacja/logo.git
